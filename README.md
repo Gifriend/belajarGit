@@ -8,4 +8,14 @@ Daftar tugas / branch
 6. Tugas-php
 7. Tugas-finalProject
 Daftar perintah GiT
-…
+cd desktop
+pwd
+cd belajarGit
+git status
+git branch
+git add
+git commit -m""
+git merge
+git push -u origin
+git checkout main
+git remote add origin
